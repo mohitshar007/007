@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ pln(java.lang.String)
+comment1.params=s
+comment1.target=void\ p(java.lang.String)
+comment2.params=
+comment2.target=int\ throwdice()
+comment3.params=
+comment3.target=void\ delaysort()
+comment4.params=
+comment4.target=void\ getname()
+comment5.params=n\ s1\ s2\ p1\ p2
+comment5.target=void\ table(java.lang.String,\ int[],\ int[],\ int,\ int)
+comment6.params=
+comment6.target=void\ main()
+numComments=7
